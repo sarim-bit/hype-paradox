@@ -1,0 +1,101 @@
+show_id,name,release_date,popularity,vote_average,vote_count,genre_id,network,primary_genre,secondary_genre,hype_gap,top_cast,pre_existing_credits,video_id,yt_views,yt_likes,yt_comments
+240459,Spartacus: House of Ashur,2025-12-05,149.1448,6.385,131,"[18, 10759]",STARZ,Drama,Action & Adventure,0.46335565476190477,"Nick E. Tarabay, Graham McTavish, Tenika Davis",41,09l-Vwha48c,1126857,9008,9132
+106379,Fallout,2024-04-10,147.4263,8.153,2403,"[10759, 10765]",Prime Video,Action & Adventure,Sci-Fi & Fantasy,0.12245699406449406,"Ella Purnell, Aaron Moten, Moisés Arias",40,0kQ8i2FpRDk,19932481,273872,26081
+157741,Landman,2024-11-17,134.646,8.021,385,[18],Paramount+,Drama,None,0.05754762454142037,"Billy Bob Thornton, Demi Moore, Ali Larter",128,7zxh49-bsIk,7181338,19621,1240
+250307,The Pitt,2025-01-09,94.7538,8.7,392,[18],Max,Drama,None,-0.3480024837233471,"Noah Wyle, Patrick Ball, Katherine LaNasa",19,ufR_08V38sQ,2245840,15269,1194
+200875,IT: Welcome to Derry,2025-10-26,70.882,8.228,1206,"[18, 9648]",HBO,Drama,Mystery,-0.4273090354549334,"Taylour Paige, Jovan Adepo, Matilda Lawler",21,oKa6u7LT0qE,16170455,184995,8421
+301507,Heated Rivalry,2025-11-28,57.0372,8.8,223,[18],Crave,Drama,None,-0.6306223559751465,"Connor Storrie, Hudson Williams, François Arnaud",33,ADi1iextoUM,1978387,43178,2794
+246386,All Her Fault,2025-11-07,54.333,8.2,117,"[18, 9648, 80]",Sky Atlantic,Drama,Mystery,-0.537944791056036,"Sarah Snook, Jake Lacy, Sophia Lillis",56,d1nz_vo7aok,2989492,998,44
+225171,Pluribus,2025-11-06,45.7918,7.957,598,"[18, 10765]",Apple TV,Drama,Sci-Fi & Fantasy,-0.552532860215136,"Rhea Seehorn, Karolina Wydra, Carlos-Manuel Vesga",22,a6lzvWby9UE,8628103,56671,3220
+226637,High Potential,2024-09-17,45.7618,8.0,396,"[18, 80, 9648]",ABC,Drama,Crime,-0.5607413740939167,"Kaitlin Olson, Daniel Sunjata, Judy Reyes",33,W6zbdYNg9Rs,1431647,9162,671
+211288,Tracker,2024-02-11,37.6209,7.529,241,"[18, 80]",CBS,Drama,Crime,-0.5301166026273147,"Justin Hartley, Fiona Rene, Abby McEnany",14,kQg16PnPpF8,915374,3184,302
+247718,MobLand,2025-03-30,36.8326,8.364,540,"[80, 18]",Paramount+,Crime,Drama,-0.690954694974133,"Tom Hardy, Pierce Brosnan, Paddy Considine",196,qKGgw7Ob5f4,10598971,33801,1362
+222766,The Day of the Jackal,2024-11-07,30.2394,8.138,921,"[18, 10759, 9648]",Sky Atlantic,Drama,Action & Adventure,-0.6950688383345803,"Eddie Redmayne, Lashana Lynch, Eleanor Matsuura",34,EUb_04MdnMI,4174429,33108,2128
+271855,Sandokan,2025-12-01,29.2363,7.4,24,"[10759, 18, 10768]",Rai 1,Action & Adventure,Drama,-0.5648138186248952,"Can Yaman, Alanah Bloor, Alessandro Preziosi",25,qylBS40vTBA,348776,4192,349
+94954,Hazbin Hotel,2024-01-18,28.294,8.622,1500,"[16, 35, 18, 10765]",Prime Video,Animation,Comedy,-0.7987165282478657,"Stephanie Beatriz, Keith David, Kimiko Glenn",148,OLSWVCwy88g,4259394,126736,6042
+246412,The Copenhagen Test,2025-12-27,25.204,6.278,54,"[10759, 10765, 9648]",Peacock,Action & Adventure,Sci-Fi & Fantasy,-0.38433482680987197,"Simu Liu, Melissa Barrera, Sinclair Daniel",30,cfTcNb104NI,18573689,18022,649
+243881,House of David,2025-02-27,24.3368,8.023,195,[18],Prime Video,Drama,None,-0.7149960576816922,"Michael Iskander, Alexander Uloom, Ali Suliman",34,GrGfIHBIVL4,4485837,53836,4257
+272418,Robin Hood,2025-11-02,24.1956,7.7,111,"[18, 10759]",MGM+,Drama,Action & Adventure,-0.6559026217346444,"Jack Patten, Lauren McQueen, Lydia Peckham",6,SDfWMSNQEJc,1664553,8493,1179
+157239,Alien: Earth,2025-08-12,23.9138,7.36,881,"[10765, 18]",FX,Sci-Fi & Fantasy,Drama,-0.5946311926582112,"Sydney Chandler, Alex Lawther, Essie Davis",37,ZbsiKjVAV28,26866000,140411,11952
+236235,The Gentlemen,2024-03-07,23.726,7.863,689,"[35, 18, 80]",Netflix,Comedy,Drama,-0.6895097931108055,"Theo James, Kaya Scodelario, Daniel Ings",44,wyEOwHrpZH4,6068459,54869,2242
+249522,Beast Games,2024-12-19,22.4492,7.519,181,[10764],Prime Video,Reality,None,-0.6344593818869398,"Jimmy Donaldson, Sean Klitzner, Chandler Hallow",1,37ZG9lddxto,8123172,12626,0
+239770,Doctor Who,2024-05-11,22.1196,6.443,272,"[10759, 18, 10765]",BBC One,Action & Adventure,Drama,-0.4366177940510141,"Ncuti Gatwa, Millie Gibson, Anita Dobson",13,pAwebgSJ60k,684779,25571,3299
+221079,The Last Frontier,2025-10-09,21.2832,7.186,148,"[18, 80]",Apple TV,Drama,Crime,-0.5806794943247467,"Jason Clarke, Haley Bennett, Dominic Cooper",93,Y_O7puXja-E,4171558,15129,506
+202555,Daredevil: Born Again,2025-03-04,21.2421,7.947,628,"[18, 80]",Disney+,Drama,Crime,-0.7225222565529617,"Charlie Cox, Vincent D'Onofrio, Margarita Levieva",105,7xALolZzhSM,18368841,605034,29053
+130853,Bad Monkey,2024-08-13,20.303,7.294,177,"[35, 80]",Apple TV,Comedy,Crime,-0.6076302445367986,"Vince Vaughn, L. Scott Caldwell, Rob Delaney",70,RokJ4M2UjNc,7971998,25045,596
+236429,On Call,2025-01-09,19.6548,7.384,134,"[80, 18, 10759]",Prime Video,Crime,Drama,-0.6289087586173312,"Troian Bellisario, Brandon Larracuente, Eriq La Salle",47,6vuppLrUGoU,15614635,24495,690
+286801,Monster: The Ed Gein Story,2025-10-03,19.3062,7.226,441,"[18, 80]",Netflix,Drama,Crime,-0.6019591006030457,"Charlie Hunnam, Suzanna Son, Vicky Krieps",61,EDBmpfbnLGk,5470557,59669,8029
+250988,House of Guinness,2025-09-25,18.5656,7.585,106,[18],Netflix,Drama,None,-0.6739216231445077,"Anthony Boyle, Louis Partridge, Emily Fairn",16,2mH396WCN0U,3510900,43821,1560
+243875,Georgie & Mandy's First Marriage,2024-10-17,18.1825,7.7,156,[35],CBS,Comedy,None,-0.6979947174003437,"Montana Jordan, Emily Osment, Rachel Bay Jones",22,WitZBV037H4,2034645,19174,1006
+248984,Unlocked: A Jail Experiment,2024-04-10,18.12,6.614,22,[10764],Netflix,Reality,None,-0.4964232929414537,Eric Higgins,0,UxOdrBoYzKg,327064,3105,887
+247723,The Hunting Party,2025-01-19,17.8563,6.9,57,"[18, 80]",NBC,Drama,Crime,-0.5514686150549816,"Melissa Roxburgh, Patrick Sabongui, Josh McKenzie",24,wRCTscQdZRY,782986,4227,373
+279601,Man vs Baby,2025-12-11,17.8105,6.837,156,"[35, 10751]",Netflix,Comedy,Family,-0.5400704680686498,"Rowan Atkinson, Alanah Bloor, Susannah Fielding",80,zHhR3daI3bY,10290737,253343,9205
+249042,Adolescence,2025-03-13,17.3665,7.841,1348,"[18, 80]",Netflix,Drama,Crime,-0.729934449665077,"Stephen Graham, Owen Cooper, Bidi Iredale",44,Wk5OxqtpBR4,5421486,52848,8859
+259886,The War Between the Land and the Sea,2025-12-07,17.3065,6.988,81,"[10765, 18]",BBC One,Sci-Fi & Fantasy,Drama,-0.5716862988512094,"Russell Tovey, Gugu Mbatha-Raw, Jemma Redgrave",71,cn-aP7V9XtE,472907,3338,396
+126308,Shōgun,2024-02-27,17.0047,8.445,1591,"[18, 10768]",FX,Drama,War & Politics,-0.8448182639479312,"Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai",74,yAN5uspO_hk,16650316,107267,6783
+219760,The Terminal List: Dark Wolf,2025-08-27,16.7209,7.476,188,"[10759, 18]",Prime Video,Action & Adventure,Drama,-0.666559346907861,"Taylor Kitsch, Tom Hopper, Robert Wisdom",39,l8tZ07FLDdU,1876593,26252,1238
+226285,Elsbeth,2024-02-29,16.616,6.88,96,"[80, 18, 35, 9648]",CBS,Crime,Drama,-0.5564305585722507,"Carrie Preston, Wendell Pierce, Carra Patterson",55,1J-fCrWcF14,10762002,743,141
+253372,The Institute,2025-07-13,16.1232,7.7,128,"[9648, 10765]",MGM+,Mystery,Sci-Fi & Fantasy,-0.7124099529035575,"Ben Barnes, Joe Freeman, Simone Miller",16,1BcvAdfyL5Y,1135511,8400,691
+225634,Monsters: The Lyle and Erik Menendez Story,2024-09-19,16.1064,7.6,468,"[18, 80]",Netflix,Drama,Crime,-0.6939263635328172,"Javier Bardem, Chloë Sevigny, Cooper Koch",118,_EaEllq5FLk,2979735,33422,3569
+241549,Murder in a Small Town,2024-09-24,15.6404,6.7,43,"[18, 80]",FOX,Drama,Crime,-0.5297776799101913,"Rossif Sutherland, Kristin Kreuk, Aaron Douglas",42,st1zT3nEA6o,413644,3169,301
+226174,Matlock,2024-09-22,15.4424,7.141,117,"[18, 80]",CBS,Drama,Crime,-0.6131949429387138,"Kathy Bates, Skye P. Marshall, Jason Ritter",117,-StZwoYw2fg,470898,5053,604
+208851,A Thousand Blows,2025-02-21,15.2643,6.7,85,[18],Disney+,Drama,None,-0.5324104046578039,"Malachi Kirby, Erin Doherty, James Nelson-Joyce",21,UVVQ_Vc7nRM,35496,110,21
+94028,RIPLEY,2024-04-04,14.8536,7.992,358,[18],Netflix,Drama,None,-0.7756127126344988,"Andrew Scott, Dakota Fanning, Johnny Flynn",108,0ri2biYLeaI,3975397,26580,1867
+250504,The Beast in Me,2025-11-13,14.4243,7.121,161,"[18, 9648]",Netflix,Drama,Mystery,-0.6166014718350854,"Claire Danes, Matthew Rhys, Brittany Snow",90,8iNHGKcP0cM,1888122,11697,991
+247767,The Studio,2025-03-25,14.3107,7.7,275,"[35, 18]",Apple TV,Comedy,Drama,-0.7250975721671785,"Seth Rogen, Catherine O'Hara, Ike Barinholtz",121,EIQuE7JGXU8,8806932,17349,661
+138502,X-Men '97,2024-03-20,14.2792,8.529,622,"[16, 10759, 10765]",Disney+,Animation,Action & Adventure,-0.8795219432875171,"Ray Chase, Jennifer Hale, Alison Sealy-Smith",33,pv3Ss8o9gGQ,10217312,331286,28416
+259909,Dexter: Resurrection,2025-07-13,14.0756,8.503,393,"[80, 18, 9648]",Paramount+ with Showtime,Crime,Drama,-0.8761108471607134,"Michael C. Hall, Jack Alcott, Uma Thurman",79,84o1Q6fB20k,9120450,72932,8506
+255055,Doc,2025-01-07,13.6184,7.4,52,[18],FOX,Drama,None,-0.6741401462923753,"Molly Parker, Omar Metwally, Amirah Vann",49,IKRZu3XqRoA,373008,3179,226
+201834,ted,2024-01-11,13.483,7.886,549,[35],Peacock,Comedy,None,-0.7654897409160647,"Seth MacFarlane, Max Burkholder, Alanna Ubach",70,NGCD1vYt38U,140859,4017,316
+247704,Red Eye,2024-04-21,13.4051,7.1,92,"[10759, 18, 80, 9648]",ITV1,Action & Adventure,Drama,-0.6198296888990756,"Jing Lusi, Cash Holland, Lesley Sharp",36,zxDrJMrF2rM,359199,743,64
+291904,The Wonderfully Weird World of Gumball,2025-10-06,13.3204,8.3,51,"[16, 10751, 35, 10765]",Cartoon Network,Animation,Family,-0.843636880186674,"Alkaio Thiele, Hero Hunter, Kinza Khan",0,x6n_NzidZRk,1277401,33563,0
+219080,The Mighty Nein,2025-11-19,13.1155,7.9,56,"[16, 10765, 10759]",Prime Video,Animation,Sci-Fi & Fantasy,-0.7706664317644588,"Laura Bailey, Marisha Ray, Liam O'Brien",36,Ri2wNyvSpiY,19777667,76977,4521
+223300,The Abandons,2025-12-04,13.1062,5.747,79,"[18, 37]",Netflix,Drama,Western,-0.3702479014240234,"Lena Headey, Gillian Anderson, Nick Robinson",117,UtZ1qya0X2M,1278445,10280,973
+114471,Ironheart,2025-06-24,13.035,5.391,396,"[10765, 80, 10759]",Disney+,Sci-Fi & Fantasy,Crime,-0.30452606801378934,"Dominique Thorne, Lyric Ross, Manny Montana",6,WpW36ldAqnM,10445203,220625,44760
+231003,Lazarus,2025-04-06,12.8301,7.8,100,"[10765, 10759, 16]",Adult Swim,Sci-Fi & Fantasy,Action & Adventure,-0.7540630600677647,"Mamoru Miyano, Makoto Furukawa, Maaya Uchida",139,LpG8vtFMkD0,1421684,49520,1823
+207411,Good American Family,2025-03-19,12.7656,7.711,223,[18],Hulu,Drama,None,-0.7379595047880951,"Ellen Pompeo, Mark Duplass, Imogen Faith Reid",33,3_QlAf1rRGE,8344582,10203,1046
+207334,The Veil,2024-04-30,12.704,6.552,105,"[18, 80]",Hulu,Drama,Crime,-0.5228029112223656,"Elisabeth Moss, Yumna Marwan, Dali Benssalah",83,T7tk5vQeEFI,86265,395,47
+194764,The Penguin,2024-09-19,12.5115,8.377,1198,"[18, 80]",HBO,Drama,Crime,-0.863622150079461,"Colin Farrell, Cristin Milioti, Rhenzy Feliz",69,sfJG6IiA_s8,5297117,67836,3696
+256317,Countdown,2025-06-25,12.4191,7.221,120,"[80, 9648]",Prime Video,Crime,Mystery,-0.649239194254676,"Jensen Ackles, Jessica Camacho, Eric Dane",32,t72R6wZ0zQ8,11411119,20697,1393
+242965,After Midnight,2024-01-17,12.207,5.476,21,"[35, 10767]",CBS,Comedy,Talk,-0.3261331344014634,"Taylor Tomlinson, Paul F. Tompkins, Kurt Braunohler",37,CAIW3nGJ83A,105461,1412,85
+228305,Task,2025-09-07,12.1738,6.73,254,"[80, 18]",HBO,Crime,Drama,-0.5596244651574727,"Mark Ruffalo, Tom Pelphrey, Emilia Jones",83,Er3kmwGenP8,131822,640,114
+108545,3 Body Problem,2024-03-21,12.1551,7.456,1356,"[10765, 9648, 18]",Netflix,Sci-Fi & Fantasy,Mystery,-0.694800009245087,"Jovan Adepo, Rosalind Chao, Liam Cunningham",67,SdvzhCL7vIA,8734284,71003,6661
+237512,Jurassic World: Chaos Theory,2024-05-24,12.0123,8.296,184,"[16, 10759, 10765, 10762, 10751]",Netflix,Animation,Action & Adventure,-0.8520496186414153,"Sean Giambrone, Paul-Mikél Williams, Raini Rodriguez",15,ftbjh-3OsuA,1981510,35558,0
+245927,Paradise,2025-01-26,11.9227,7.578,294,"[80, 18]",Hulu,Crime,Drama,-0.7191202769181032,"Sterling K. Brown, Julianne Nicholson, Sarah Shahi",64,tCObCpYScdE,9650230,14851,489
+240932,Wild Cards,2024-01-10,11.8808,7.122,49,"[18, 35, 9648]",CBC Television,Drama,Comedy,-0.6345921511037204,"Vanessa Morgan, Giacomo Gianniotti, Michael Xavier",26,XKW-9ORTvC4,849484,7870,315
+138505,Marvel Zombies,2025-09-24,11.8411,7.2,286,"[10765, 16, 10759]",Disney+,Sci-Fi & Fantasy,Animation,-0.6493789822874335,"Iman Vellani, Todd Williams, David Harbour",32,twHYF506-9Y,5473122,227196,11905
+90228,Dune: Prophecy,2024-11-17,11.7247,7.3,516,"[10765, 18, 10759]",HBO,Sci-Fi & Fantasy,Drama,-0.668794980422816,"Emily Watson, Olivia Williams, Travis Fimmel",104,CzVHWNosS2o,11427009,62187,3844
+196890,Chief of War,2025-07-31,11.7066,7.332,206,[18],Apple TV,Drama,None,-0.6748740625661882,"Jason Momoa, Luciane Buchanan, Te Ao o Hinepehinga",38,owdGcwufWK8,11676411,69155,3875
+82452,Avatar the Last Airbender,2024-02-22,11.3985,7.8,1027,"[10759, 18, 10751, 10765]",Netflix,Action & Adventure,Drama,-0.7640843542679302,"Gordon Cormier, Kiawentiio, Ian Ousley",3,ByAn8DF8Ykk,11917731,321731,26846
+271267,The Chair Company,2025-10-12,11.3946,7.194,67,"[35, 18, 9648]",HBO,Comedy,Drama,-0.6513884402388384,"Tim Robinson, Lake Bell, Sophia Lillis",42,b0lDMHAGDnU,1447154,18322,1028
+225647,Boots,2025-10-09,11.2505,7.861,147,"[35, 18, 10768]",Netflix,Comedy,Drama,-0.776467090196898,"Miles Heizer, Max Parker, Vera Farmiga",56,2mjN2f5tu2s,1056462,14521,2288
+262469,Dating Naked UK,2024-08-23,11.2232,7.286,28,[10764],Paramount+,Reality,None,-0.6697013467551595,"Rylan Clark, Dominik Herbert, Billy Field",5,QmA6h74dyks,82993,204,5
+289485,WWE: Unreal,2025-07-29,11.123,7.8,25,[99],Netflix,Documentary,None,-0.7660128723960007,"Paul Levesque, Michael Seitz, Bruce Prichard",227,FfE8LC_FVLA,693639,19527,1688
+284838,9-1-1: Nashville,2025-10-09,11.0428,7.969,32,"[18, 10759]",ABC,Drama,Action & Adventure,-0.7980102895779722,"Chris O'Donnell, Jessica Capshaw, Kimberly Williams-Paisley",52,5lRbzwDdf1c,147664,2485,225
+244447,The Hunting Wives,2025-07-21,11.0001,6.7,59,"[18, 9648]",Netflix,Drama,Mystery,-0.5622600852448014,"Brittany Snow, Malin Åkerman, Jaime Ray Newman",88,6Nb51LHXS2g,1283604,4142,314
+241554,Murderbot,2025-05-15,10.8985,7.3,371,"[35, 18, 10765]",Apple TV,Comedy,Drama,-0.6745784347872871,"Alexander Skarsgård, Noma Dumezweni, David Dastmalchian",99,vEioDeOiqEs,4063366,65207,4576
+258742,All's Fair,2025-11-04,10.8362,4.945,55,"[18, 35]",Hulu,Drama,Comedy,-0.23695650317237987,"Kim Kardashian, Naomi Watts, Niecy Nash-Betts",100,4SVJMKNfF0w,44938099,16182,2089
+200908,We Were the Lucky Ones,2024-03-28,10.7903,7.519,79,[18],Hulu,Drama,None,-0.7160724490497712,"Joey King, Logan Lerman, Robin Weigert",55,MSKBrtEirmA,30131,311,33
+196322,Dark Matter,2024-05-07,10.6111,7.8,574,"[10765, 18]",Apple TV,Sci-Fi & Fantasy,Drama,-0.7695962060793372,"Joel Edgerton, Jennifer Connelly, Alice Braga",136,j6ucGt_Xp14,11521353,63333,3452
+211358,Under the Bridge,2024-04-17,10.442,7.818,198,"[18, 80]",Hulu,Drama,Crime,-0.774128131491936,"Lily Gladstone, Vritika Gupta, Chloe Guidry",22,MzBd_9tXwIY,43625,386,34
+237748,Brilliant Minds,2024-09-23,10.4296,7.288,52,[18],NBC,Drama,None,-0.6756286227840542,"Zachary Quinto, Tamberla Perry, Ashleigh LaThrop",27,3nyz4GJnJfY,312453,1863,258
+157367,Palm Royale,2024-03-19,10.3914,6.2,68,"[18, 35]",Apple TV,Drama,Comedy,-0.4735150729166855,"Kristen Wiig, Ricky Martin, Josh Lucas",104,-mbE660duGQ,8474128,10827,444
+213306,Cross,2024-11-14,10.378,7.2,221,"[80, 18, 9648]",Prime Video,Crime,Drama,-0.6596207785603185,"Aldis Hodge, Isaiah Mustafa, Juanita Jennings",27,CSABWp1x-DU,43590,364,9
+219937,Dexter: Original Sin,2024-12-15,10.359,8.2,352,"[80, 18, 9648]",Paramount+ with Showtime,Crime,Drama,-0.845765684572435,"Patrick Gibson, Christian Slater, Molly Brown",91,Bw8ZdQpVtdU,9323793,36620,3536
+241609,Your Friends & Neighbors,2025-04-10,10.0051,7.413,155,[18],Apple TV,Drama,None,-0.701851638811655,"Jon Hamm, Amanda Peet, Lena Hall",75,iVRFMd6dEOE,6534317,13739,606
+273247,The Lowdown,2025-09-23,10.0026,6.7,43,"[80, 18]",FX,Crime,Drama,-0.5692426508809184,"Ethan Hawke, Keith David, Michael Hitchcock",226,cE9bq37W3Qo,17401467,7568,392
+256624,Talamasca: The Secret Order,2025-10-19,9.924,6.877,65,[10765],AMC,Sci-Fi & Fantasy,None,-0.6027169631957041,"Nicholas Denton, Celine Buckens, Maisie Richardson-Sellers",14,W4NR10YGzV4,572299,7221,520
+219971,The Agency: Central Intelligence,2024-12-01,9.9221,7.2,189,"[18, 9648]",Paramount+ with Showtime,Drama,Mystery,-0.6628121085588206,"Michael Fassbender, Jeffrey Wright, Jodie Turner-Smith",115,pAxMy31nffA,5856765,29003,1256
+251597,Bookish,2025-07-16,9.7947,6.813,24,"[80, 9648, 18]",U&Alibi,Crime,Mystery,-0.5917173097989621,"Mark Gatiss, Polly Walker, Elliot Levey",94,xDnkO4GGBUM,200525,0,0
+248830,Stick,2025-06-03,9.6701,7.177,93,"[35, 18]",Apple TV,Comedy,Drama,-0.6602978513310526,"Owen Wilson, Peter Dager, Lilli Kay",67,72oB_zVF_6o,8978866,8385,547
+138503,Your Friendly Neighborhood Spider-Man,2025-01-29,9.6305,7.8,237,"[16, 10759, 10765, 35]",Disney+,Animation,Action & Adventure,-0.7764604706034238,"Hudson Thames, Colman Domingo, Eugene Byrd",43,N3J2JRQg040,4996477,170104,0
+271053,I Love LA,2025-11-02,9.554,6.5,28,[35],HBO,Comedy,None,-0.5351804994466948,"Rachel Sennott, Odessa A'zion, True Whitaker",21,DnBAmvw_Yow,736684,9460,512
+243006,NCIS: Origins,2024-10-14,9.4518,7.62,54,"[80, 18]",CBS,Crime,Drama,-0.7442292395048514,"Austin Stowell, Kyle Schmid, Mariel Molino",26,w_1foSAqimQ,58128,632,121
+246246,Beauty in Black,2024-10-24,9.3492,7.5,98,[18],Netflix,Drama,None,-0.7226260176845664,"Taylor Polidore, Crystle Stewart, Amber Reign Smith",9,0dclNQV71-k,2167845,15371,1988
+213249,Sausage Party: Foodtopia,2024-07-11,9.3096,6.9,184,"[16, 35, 10759, 10765]",Prime Video,Animation,Comedy,-0.611296077433128,"Seth Rogen, Kristen Wiig, Edward Norton",151,JrmC2uJXsMM,1842714,18644,3135
+207484,Outlander: Blood of My Blood,2025-08-08,9.115,8.629,70,[18],STARZ,Drama,None,-0.9342728735712615,"Harriet Slater, Jamie Roy, Hermione Corfield",19,9hvjJEXoIhs,13666520,9140,681
+245026,Wizards Beyond Waverly Place,2024-10-29,9.1018,8.876,173,"[35, 10765, 10751]",Disney Channel,Comedy,Sci-Fi & Fantasy,-0.9803102149160202,"Janice LeAnn Brown, Alkaio Thiele, Max Matenko",0,BtCBanGregI,7311173,19762,1976
+219543,Creature Commandos,2024-12-05,9.0929,7.774,279,"[16, 10765, 10759]",Max,Animation,Sci-Fi & Fantasy,-0.7753873964540268,"Indira Varma, Sean Gunn, Alan Tudyk",53,0CsuJoumqAk,1649437,70317,4145
+113959,Duster,2025-05-15,9.0863,6.19,63,"[80, 18]",Max,Crime,Drama,-0.4807907397454537,"Josh Holloway, Rachel Hilson, Asivak Koostachin",21,6vDuAFfmaUE,45514,488,33
+138501,Agatha All Along,2024-09-18,9.0801,7.476,893,"[10765, 9648]",Disney+,Sci-Fi & Fantasy,Mystery,-0.7200454496772271,"Kathryn Hahn, Joe Locke, Sasheer Zamata",40,R9pXbNz6Vbw,6631925,100282,6876
+239826,Ballard,2025-07-09,8.8856,7.044,135,"[18, 80]",Prime Video,Drama,Crime,-0.6410498196183044,"Maggie Q, Courtney Taylor, John Carroll Lynch",49,9nKRJGXgK0Q,13015348,23505,1440

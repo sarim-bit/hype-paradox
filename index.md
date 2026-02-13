@@ -356,7 +356,14 @@ By plotting **YouTube Sentiment (VADER)** against **TMDB Ratings**, I categorise
 3.  **The Marketing Trap:** High sentiment/reach that failed to translate to high ratings post-release.
 4.  **The Noise Zone:** Low traction in both marketing reach and critical reception.
 
-![alt text](images//trp_success_matrix.png "Success Matrix")
+<!-- ![alt text](images//trp_success_matrix.png "Success Matrix") -->
+<iframe 
+  src="images/interactive_matrix.html" 
+  width="100%" 
+  height="600px" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
 
 ---
 

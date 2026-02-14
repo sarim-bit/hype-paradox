@@ -1,6 +1,9 @@
-# 🎬 The Hype Paradox: Film & TV Predictive Analytics
+# The Hype Paradox: Film & TV Predictive Analytics
 
 [![GitHub Pages](https://img.shields.io/badge/Live_Report-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://sarim-bit.github.io/hype-paradox/)
+
+##  [View the Live Interactive Analysis](https://sarim-bit.github.io/hype-paradox/trailer-to-ratings)
+> The live report now includes an **Interactive Success Matrix**. Hover over data points to explore show-specific metrics and isolate performance by network.
 
 ### **Executive Summary**
 In the era of viral marketing, is a trailer's view count a reliable predictor of a show's quality? **The Hype Paradox** is a data-driven investigation into the decoupling of social media "buzz" from critical success. By merging **TMDB** metadata with **YouTube Data API** engagement metrics for 100 high-profile shows (2024–2025), this project identifies the mathematical point where marketing volume stops scaling with critical acclaim.
@@ -21,7 +24,8 @@ In the era of viral marketing, is a trailer's view count a reliable predictor of
 * **APIs:** YouTube Data API v3, TheMovieDatabase (TMDB) API.
 * **NLP:** VADER Sentiment Analysis (Compound scoring for 5,000+ organic comments).
 * **Data Science:** Pandas, NumPy, Scipy (Pearson Correlation, Log Transformation).
-* **Visualization:** Seaborn, Matplotlib (Lollipop charts, Heatmaps, Quadrant Analysis).
+* **Static Visualization:** Seaborn, Matplotlib (Lollipop charts, Heatmaps, Quadrant Analysis).
+* **Interactive Visualization:** Plotly (Interactive Success Matrix with quadrant mapping).
 
 ## Repository Structure
 ```text
